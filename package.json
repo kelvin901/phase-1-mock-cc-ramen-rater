@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-mock-cc-ramen-rater",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvin901/phase-1-mock-cc-ramen-rater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvin901/phase-1-mock-cc-ramen-rater/issues"
+  },
+  "homepage": "https://github.com/kelvin901/phase-1-mock-cc-ramen-rater#readme"
+}

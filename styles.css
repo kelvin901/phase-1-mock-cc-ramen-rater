@@ -33,6 +33,7 @@ header {
   height: 150px;
   margin-right: 0.5rem;
   cursor: pointer;
+  background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSac7Z5PSgWp_qkJ0O7LoaJ04Dx-JZUhySJRtbk8qCawQ&s";
 }
 
 #ramen-menu img:last-child {
